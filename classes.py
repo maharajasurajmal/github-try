@@ -77,3 +77,5 @@ class wall():
         self.collide = False
         self.image = C:\Users\ashok\Desktop\download.jpg
         self.image = pygame.trabsform.scale(self.image, (self.wall_h,self.wall_w))
+        
+ safrgtggggggggggggggggggggggggggggggdddddddddd
